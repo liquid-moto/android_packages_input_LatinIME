@@ -1,0 +1,29 @@
+<!--* 
+    * Custom user dictionary for our users
+    *
+    * the larger the number the more it will be suggested,
+    * and so we keep everything neat please add in correct
+    * priority order
+    *
+    * -->
+
+<wordlist>
+  <w f="255">ICS</w>
+  <w f="255">LiquidSmoothROMs</w>
+  <w f="255">ROM</w>
+  <w f="254">ics</w>
+  <w f="220">RootzWiki</w>
+  <w f="200">Liquid0624</w>
+  <w f="200">JBirdVegas</w>
+  <w f="200">n0coast</w>
+  <w f="200">ExiledThemer</w>
+  <w f="200">amplified</w>
+  <w f="200">Liquidzgrl</w>
+  <w f="128">rom</w>
+  <w f="127">ROMs</w>
+  <w f="126">roms</w>
+  <w f="100">Linux</w>
+  <w f="75">GNex</w>
+  <w f="75">github</w>
+</wordlist>
+
